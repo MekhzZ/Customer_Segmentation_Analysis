@@ -11,7 +11,7 @@ This project aims to segment customers based on their purchasing behavior and de
 - Evaluation: Used elbow method and silhouette score to determine the optimal number of clusters.
 - Results: Visualized the clusters using various charts to show how different customer segments were formed.
 
-## Key Features\
+## Key Features
 
 - K-means clustering: Used to group customers with similar attributes.
 - Data Visualization: Created insightful visualizations for the clusters using Matplotlib and Seaborn.
